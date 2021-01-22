@@ -1,0 +1,63 @@
+Relationship:
+Aunt
+Brother
+Daughter
+Domestic Partner Adult
+Domestic Partner Daughter
+Domestic Partner Son
+Employee
+Estate
+ExSpouse
+Father
+Father-in-Law
+Foster Daughter
+Foster Son
+Friend
+Grandchild
+Grandfather
+Grandmother
+Mother
+Mother-in-Law
+Neighbor
+Nephew
+Niece
+Other
+Other Relative
+Recognized Child
+Roommate
+Child
+Sister
+Son
+Spouse
+Uncle
+Sibling
+Parent
+Grandparent
+Domestic Partner Child
+Foster Child
+
+******************************************************************
+Phone Device:
+BUSN
+CELL
+FAX
+HOME
+MAIN
+OTR
+PGR1
+
+******************************************************************
+Countries:
+Canada
+Costa Rica
+Mexico
+Panama
+United States
+Argentina
+Brazil
+Chile
+Colombia
+Ecuador
+Peru
+Uruguay
+Venezuela
