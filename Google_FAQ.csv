@@ -1,0 +1,7 @@
+When do I need to activate Cloud Storage and enable billing?,"If you want to create buckets, store data, or control who can access your data, you must activate Cloud Storage and enable billing."
+How do I sign up?,Sign up for Cloud Storage by turning on the Cloud Storage service in the Google Cloud Console.
+Do I need to activate Cloud Storage and turn on billing if I was granted access to someone else's bucket?,"No, in this case another individual has already set up a Google Cloud project and either added you as a project team member or granted you permission to their buckets and objects. Once you authenticate, typically with your Google account, you can read or write data according to the access that you were granted."
+Where is my data stored?,Where Cloud Storage stores your data depends on the location of the bucket in which your data resides.
+How do I protect myself from accidental data deletion?,Cloud Storage offers several different ways for you to protect your data from accidental deletion.
+Where can I find pricing information?,"Read the Pricing page for detailed information on pricing, including how Cloud Storage calculates bandwidth and storage usage."
+Where can I find billing information?,"Read the Billing questions page, which provides relevant links to the Cloud Billing documentation."
